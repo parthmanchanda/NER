@@ -1,2 +1,6 @@
 Flask==1.1.1
 spacy==2.1.8
+numpy==1.14.3
+gunicorn==19.7.1
+imutils==0.4.6
+times==0.7
